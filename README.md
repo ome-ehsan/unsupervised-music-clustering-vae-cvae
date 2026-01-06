@@ -6,9 +6,9 @@ This repository contains a comparative analysis of Variational Autoencoder (VAE)
 
 The goal of this project is to learn latent representations of musical tracks that capture semantic attributes such as genre. We implement and compare three distinct architectures:
 
-1.  **Basic VAE:** A Multi-Layer Perceptron (MLP) model using 40-dimensional MFCC features.
-2.  **Enhanced Multimodal VAE:** A fusion model combining Convolutional Neural Networks (CNN) for Mel-spectrograms and linear layers for text (lyrics) embeddings.
-3.  **Conditional VAE (CVAE):** A structured prediction model conditioned on genre labels to enable controlled audio generation.
+1.  **Basic VAE:** (./notebook/Variational_AutoEncoder.ipynb) A Multi-Layer Perceptron (MLP) model using 40-dimensional MFCC features.
+2.  **Enhanced Multimodal VAE:** (./notebook/Enhanced_Variational_AutoEncoder.ipynb) A fusion model combining Convolutional Neural Networks (CNN) for Mel-spectrograms and linear layers for text (lyrics) embeddings.
+3.  **Conditional VAE (CVAE):** (./notebook/Conditional_VAE_&_Evaluation.ipynb A structured prediction model conditioned on genre labels to enable controlled audio generation.
 
 ## Dataset
 
