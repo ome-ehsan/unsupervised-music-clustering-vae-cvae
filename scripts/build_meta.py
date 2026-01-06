@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 
 # INPUT / OUTPUT
-AUDIO_DIR = Path(r"E:\cse425_project\fma_small\converted")
+AUDIO_DIR = Path(r"E:\cse425_project\fma\converted")
 OUTPUT_CSV = Path(r"E:\cse425_project\metadata.csv")
 
 rows = []
