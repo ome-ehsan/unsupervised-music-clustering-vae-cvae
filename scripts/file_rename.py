@@ -1,7 +1,7 @@
 import os
 def rename_files():
 
-    folder_path = r"E:\cse425_project\fma_small\converted"
+    folder_path = r"E:\cse425_project\fma\converted"
 
     if not os.path.exists(folder_path):
         print(f"Error: The directory {folder_path} does not exist.")
