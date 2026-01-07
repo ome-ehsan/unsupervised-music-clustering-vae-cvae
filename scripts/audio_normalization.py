@@ -2,8 +2,8 @@ import subprocess
 from pathlib import Path
 
 # INPUT / OUTPUT PATHS
-INPUT_ROOT = Path(r"E:\cse425_project\fma_small")
-OUTPUT_DIR = Path(r"E:\cse425_project\fma_small\converted")
+INPUT_ROOT = Path(r"E:\cse425_project\fma")
+OUTPUT_DIR = Path(r"E:\cse425_project\fma\converted")
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
