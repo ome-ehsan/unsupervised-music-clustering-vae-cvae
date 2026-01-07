@@ -13,7 +13,7 @@ The goal of this project is to learn latent representations of musical tracks th
 ## Dataset
 
 This project utilizes a subset of the Free Music Archive (FMA) dataset.
-
+* **Notebooks Drive link (if github fails to load .ipynb files in ./notebook):** https://drive.google.com/drive/folders/1-hC9N0Gv_ueE6uwu23tmlq-lUsP2SgwH?usp=sharing 
 * **Metadata and Lyrics:** Obtained from the [FMA GitHub Repository](https://github.com/mdeff/fma).
 * **Audio Files:** The processed `.wav` audio samples used for training are available here: [Google Drive Link](https://drive.google.com/drive/folders/1dB1Qd88Zmt3QpaNaQ9E-EVPooRrAx5n7?usp=sharing).
 
